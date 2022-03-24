@@ -38,7 +38,7 @@ pip install speechrecognition
 pip install gtts
 
 ### Módulo para executar audio mp3
-import playsound
+pip install playsound
 
 ### Acesso ao Sistema Operacional (Ativar recursos audio e outros)
 pip install os
@@ -53,7 +53,7 @@ pip install yfinance
 pip install wolframalpha
 
 ### Módulo de tradução (Vários idiomas, no projeto utilizado apenas (en) / (pt)
-import translators as ts
+pip install translators
 
 ### Módulo de acesso ao Wikipedia
 pip install wikipedia
